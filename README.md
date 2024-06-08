@@ -1,2 +1,0 @@
-# Dafin-AI
-ai
